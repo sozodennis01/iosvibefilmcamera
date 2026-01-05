@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>Film Camera needs access to your camera to capture photos with authentic film aesthetics.</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>Film Camera needs access to save your captured photos to your photo library.</string>
+    <key>UILaunchScreen</key>
+    <dict/>
+    <key>UIApplicationSceneManifest</key>
+    <dict>
+        <key>UIApplicationSupportsMultipleScenes</key>
+        <true/>
+    </dict>
+</dict>
+</plist>
